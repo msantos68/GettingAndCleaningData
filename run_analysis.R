@@ -1,5 +1,5 @@
 ## run_analysis.R
-# Michelle Santos 3/20/2015
+# 3/20/2015
 # Purpose:  For Coursera Getting and Cleaning Data Course Project
 #   This program will run through the following steps:
 #  1. Read in the Training and Test data on the accelerometers from Samsung Galaxy S Smartphone
